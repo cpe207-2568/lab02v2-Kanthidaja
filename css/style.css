@@ -1,0 +1,115 @@
+.niramit-extralight {
+  font-family: "Niramit", sans-serif;
+  color: lightpink;
+}
+
+body {
+    background-image: url("../myphoto/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh; 
+  margin: 0;
+}
+
+
+p{
+    color: black;
+    font-weight: 200;
+}
+
+
+h1 {
+     font-size: 50px;
+      height: 30vh;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+ 
+
+.my-image {
+    position: absolute;
+    top: 233px;
+    left: 250px;
+}
+
+
+ .name {
+      position: absolute;
+      top: 208px;
+      left: 575px;
+ }
+
+.introduce{
+    position: absolute;
+    top: 240px;
+    left: 575px;
+}    
+
+
+.skills {
+      position: absolute;
+      top: 320px;
+      left: 575px;   
+} 
+
+.experience {
+      position: absolute;
+      top: 300px;
+      left: 575px;   
+} 
+
+.programming {
+      position: absolute;
+      top: 352px;
+      left: 575px;
+} 
+
+h4 {
+    position: absolute;
+    top: 398px;
+    left: 575px;
+    }   
+
+
+.navbar1{
+    position: absolute;
+    top: 600px;
+    left: 585px;
+    font-weight: bolder;
+    color: plum;
+    font-size: 20px;
+}
+
+.navbar2{
+    position: absolute;
+    top: 600px;
+    left: 653px;
+    font-weight: bolder;
+    color: plum;
+    font-size: 20px;
+}
+
+.navbar3{
+    position: absolute;
+    top: 600px;
+    left: 769px;
+    font-weight: bolder;
+    color: plum;
+    font-size: 20px;
+}
+
+
+a{
+    color: black;
+}
+
+.phonenumber{
+    position: absolute;
+    top: 320px;
+      left: 695px;   
+}
+
+
